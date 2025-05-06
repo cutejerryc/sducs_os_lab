@@ -1,0 +1,6 @@
+lab3
+lab3.c
+lab3.o
+makefile
+out.txt
+test.c

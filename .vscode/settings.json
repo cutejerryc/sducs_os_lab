@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "signal.h": "c",
+        "pctl.h": "c",
+        "history.h": "c",
+        "ipc.h": "c",
+        "cstdlib": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c"
+    }
+}
